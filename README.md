@@ -6,3 +6,5 @@ Most basic example to access Office365 data.
 Uses https://github.com/object/Simple.OData.Client to read data.
 Solves the problem auf authentication and paging.
 
+#Simple.OData.Client.Office365.TDD
+Example for writing tests when using the "Simple.OData.Client" framework for reading data from Office365.
